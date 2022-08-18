@@ -1,0 +1,32 @@
+item { 
+	name:'Moon'
+	id:1
+}
+item { 
+	name:'Insect'
+	id:2
+}
+item { 
+	name:'Black_star'
+	id:3
+}
+item { 
+	name:'Grey_star'
+	id:4
+}
+item { 
+	name:'Unicorn_whole'
+	id:5
+}
+item { 
+	name:'Unicorn_head'
+	id:6
+}
+item { 
+	name:'Owl'
+	id:7
+}
+item { 
+	name:'Cat'
+	id:8
+}
